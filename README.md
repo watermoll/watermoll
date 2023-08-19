@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Watermoll
 - 👀 I’m interested in English laguage
-- 🌱 I’m currently learning  computer science
+- 🌱 I’m currently learning  computer science and I'm a student at Huanghe university
 - 💞️ I’m looking to collaborate on computer science
 - 📫 How to reach me: you can add my wechat number that is a3012010123
 
